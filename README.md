@@ -1130,6 +1130,7 @@ This section covers the latest AI-driven robots, ranging from quadruped robotic 
 - [Copy.ai](https://www.copy.ai/) - AI for copywriting.
 - [You.com](https://you.com/) - AI-powered search engine.
 - [SocialStudio](https://www.socialstudio.ai/) - AI for social media management.
+- [HelperX](https://helperx.app) - AI-powered X/Twitter automation: persona-matched auto-replies, scheduled posts, DM funnels, and multi-account management with per-slot isolation.
 - [Wave.video](https://wave.video/) - AI for video marketing.
 - [RoamAround.io](https://www.roamaround.io/) - AI for travel planning.
 - [Codeium](https://codeium.com/) - AI for coding assistance.
